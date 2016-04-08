@@ -1,0 +1,1 @@
+Some links and notes needed for working with Git.
